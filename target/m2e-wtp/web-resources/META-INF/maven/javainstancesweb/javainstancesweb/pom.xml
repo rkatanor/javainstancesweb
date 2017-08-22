@@ -35,7 +35,7 @@
 	<configuration>
 		<url>http://localhost:8085/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/javahome</path>
+		<path>/javainstancesweb</path>
 	</configuration>
 </plugin>
 </plugins>
